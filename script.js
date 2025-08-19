@@ -3,5 +3,5 @@ function add(a, b) {
 }
 
 document.getElementById('title').innerText =
-  `Hello Git 👋 2+3=${add(2,4)}`;
+  `Hello Git 👋 2+4=${add(2,4)}`;
   
